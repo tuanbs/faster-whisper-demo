@@ -1,0 +1,26 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "certifi",
+        "coloredlogs",
+        "ctranslate",
+        "filelock",
+        "flatbuffers",
+        "fsspec",
+        "huggingface",
+        "humanfriendly",
+        "idna",
+        "mpmath",
+        "numpy",
+        "onnxruntime",
+        "setuptools",
+        "sympy",
+        "tqdm",
+        "urllib"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
