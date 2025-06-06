@@ -20,7 +20,7 @@ whisper_model_name = 'large-v2' # Best for now: 'large-v2 > medium'.
 device = 'cpu'
 default_srt_file_path = f'{default_media_file_name}.{language}.srt'
 # Google AI Api stuffs (For Gemini).
-google_ai_api_key = 'check_your_backend_to_get_google_ai_key'
+google_ai_api_key = 'your_google_ai_api_key'
 google_ai_api_url_with_key = f'https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash-lite:generateContent?key={google_ai_api_key}'
 
 def segments_to_srt(segments, srt_file_path) -> str:
