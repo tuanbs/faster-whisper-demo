@@ -4,12 +4,17 @@
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
+        "acodec",
         "certifi",
         "coloredlogs",
         "ctranslate",
+        "distil",
+        "dotenv",
         "filelock",
         "flatbuffers",
         "fsspec",
+        "googletrans",
+        "httpx",
         "huggingface",
         "humanfriendly",
         "idna",
@@ -19,7 +24,8 @@
         "setuptools",
         "sympy",
         "tqdm",
-        "urllib"
+        "urllib",
+        "whisperx"
     ],
     "ignoreWords": [],
     "import": []

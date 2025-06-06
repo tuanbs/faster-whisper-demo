@@ -6,3 +6,6 @@ app.egg-info
 htmlcov
 .cache
 .venv
+
+# Ignore faster-whisper cached models
+.faster-whisper-models/
