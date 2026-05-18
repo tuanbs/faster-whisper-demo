@@ -9,3 +9,4 @@ htmlcov
 
 # Ignore faster-whisper cached models
 .faster-whisper-models/
+.DS_Store
